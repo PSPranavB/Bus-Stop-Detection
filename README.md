@@ -1,4 +1,4 @@
-# Group 9 UNCC Bus Stop Detection
+# UNCC Bus Stop Detection
 
 ## Name
 UNCC Bus Stop detection
