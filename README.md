@@ -40,9 +40,6 @@ To use this Bus Stop Detection system, follow these steps:
 2. Restart the kernel and run all the cells.
 3. The results will be stored in the yolov7/runs/detect/exp directory.
 
-## Support
-If you encounter any issues or have questions, contact us via email at valapati@uncc.edu, nrashvan@uncc.edu, pbhagav1@uncc.edu, schaudh9@uncc.edu
-
 ## Authors and acknowledgment
 We would like to thank the developers of YOLOv7 for their excellent work in developing this object detection algorithm. Their contributions have made it possible for us to build on top of their work and create this project.
 
