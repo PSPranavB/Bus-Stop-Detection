@@ -1,8 +1,5 @@
 # UNCC Bus Stop Detection
 
-## Name
-UNCC Bus Stop detection
-
 ## Description
 The UNCC Bus Stop Detection project is an automated system that utilizes object detection and optical character recognition (OCR) to detect and identify bus stops in a video stream. The system consists of two classes of objects, namely "Bus stop shelter" and "Bus stop sign board". The yolov7 model is used for detecting these objects, which allows for accurate detection of both the bus stop sign board and the shelter.
 
